@@ -1,16 +1,22 @@
-## Hi there 👋
+Hi I am Harsh Chandramania👋
+🌟 About Me
+I'm a BTech student in Artificial Intelligence and Data Science at DJ Sanghvi College of Engineering with a passion for leveraging technology to solve real-world problems and create innovative solutions. With a blend of technical expertise and creative thinking, I thrive on building impactful projects that make a difference.
 
-<!--
-**Spamziesagcan/Spamziesagcan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I love exploring cutting-edge technologies like Artificial Intelligence, Data Science, and Web Development. I'm also an advocate for open-source contributions and enjoy collaborating with like-minded individuals to build something meaningful.
 
-Here are some ideas to get you started:
+🛠️ Skills:
+Programming Languages: Python, C, HTML, SQL, Java
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Tools and Software:  MS PowerPoint, MS Word, MS Excel, Microsoft PowerBI, Tableau, Cqnva.
+
+💡I am currently learning :
+🌟 Generative AI: Exploring the creation of AI-generated content using GANs (Generative Adversarial Networks) and diffusion models.
+
+🧠 Natural Language Processing (NLP): Working on text classification, sentiment analysis, and developing language models using transformers like BERT and GPT.
+
+(:  Computer Vision: Enabling machines to interpret and analyze visual data.
+
+📊 Data Science and Analytics: Gaining expertise in Exploratory Data Analysis (EDA) by working with real-world datasets, handling missing values, and transforming data for better insights. Leaning deep into Time Series Analysis and predictive measures.
+
+
+🚀 Always learning, experimenting, and innovating! Let's connect and build something awesome together.
