@@ -11,6 +11,8 @@ Programming Languages: Python, C, HTML, SQL, Java
 
 Tools and Software:  MS PowerPoint, MS Word, MS Excel, Microsoft PowerBI, Tableau, Canva.
 
+Data Science & Analysis: NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn, Plotly.
+
 💡I am currently learning :
 🌟 Generative AI: Exploring the creation of AI-generated content using GANs (Generative Adversarial Networks) and diffusion models.
 
