@@ -7,7 +7,7 @@ I love exploring cutting-edge technologies like Artificial Intelligence, Data Sc
 🛠️ Skills:
 Programming Languages: Python, C, HTML, SQL, Java
 
-Tools and Software:  MS PowerPoint, MS Word, MS Excel, Microsoft PowerBI, Tableau, Cqnva.
+Tools and Software:  MS PowerPoint, MS Word, MS Excel, Microsoft PowerBI, Tableau, Canva.
 
 💡I am currently learning :
 🌟 Generative AI: Exploring the creation of AI-generated content using GANs (Generative Adversarial Networks) and diffusion models.
