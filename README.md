@@ -1,4 +1,5 @@
 Hi I am Harsh Chandramania! 
+
 About Me:
 
 I'm a BTech student in Artificial Intelligence and Data Science at DJ Sanghvi College of Engineering with a passion for leveraging technology to solve real-world problems and create innovative solutions. With a blend of technical expertise and creative thinking, I thrive on building impactful projects that make a difference.
