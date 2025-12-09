@@ -37,14 +37,6 @@ me = Harsh()
 me.say_hi()
 ```
 
--  Completed **[EdgeScribe](https://github.com/Spamziesagcan/EdgeScribe)** - Successfully delivered an innovative project
--  Currently learning **Cloud Architecture, System Design, Big Data, Data Engineering, and Data Structures & Algorithms**
--  Ask me about **Python, Java, Data Science, Backend Development, or Songwriting**
--  2025 Goals: Master Data Engineering and contribute more to Open Source
--  Fun fact: **I'm a lyricist** - I express code in logic and emotions in lyrics
--  Reach me: **harshchandramania@gmail.com**
--  *"Code is poetry written in logic"*
-
 ---
 
 ###  Connect With Me
