@@ -144,26 +144,42 @@ me.say_hi()
 
 ###  Featured Projects
 
-<div align="center">
-  <a href="https://github.com/Spamziesagcan/EdgeScribe">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Spamziesagcan&repo=EdgeScribe&theme=tokyonight&hide_border=true" alt="EdgeScribe" />
-  </a>
-  <a href="https://github.com/Spamziesagcan/updatis">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Spamziesagcan&repo=updatis&theme=tokyonight&hide_border=true" alt="Updatis" />
-  </a>
-  <a href="https://github.com/Spamziesagcan/tripsync-deploy">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Spamziesagcan&repo=tripsync-deploy&theme=tokyonight&hide_border=true" alt="TripSync-Deploy" />
-  </a>
-  <a href="https://github.com/Spamziesagcan/TDSP-NSDC">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Spamziesagcan&repo=TDSP-NSDC&theme=tokyonight&hide_border=true" alt="TDSP-NSDC" />
-  </a>
-  <a href="https://github.com/Spamziesagcan/IPL-2008-22-ANALYSIS">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Spamziesagcan&repo=IPL-2008-22-ANALYSIS&theme=tokyonight&hide_border=true" alt="IPL 2008-22 Analysis" />
-  </a>
-  <a href="https://github.com/Spamziesagcan/LA-CRIMES-2020-25">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Spamziesagcan&repo=LA-CRIMES-2020-25&theme=tokyonight&hide_border=true" alt="LA Crimes 2020-25" />
-  </a>
-</div>
+<table align="center">
+  <tr>
+    <td align="center" width="33%">
+      <a href="https://github.com/Spamziesagcan/EdgeScribe">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Spamziesagcan&repo=EdgeScribe&theme=tokyonight&hide_border=true" />
+      </a>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://github.com/Spamziesagcan/updatis">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Spamziesagcan&repo=updatis&theme=tokyonight&hide_border=true" />
+      </a>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://github.com/Spamziesagcan/tripsync-deploy">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Spamziesagcan&repo=tripsync-deploy&theme=tokyonight&hide_border=true" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="33%">
+      <a href="https://github.com/Spamziesagcan/TDSP-NSDC">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Spamziesagcan&repo=TDSP-NSDC&theme=tokyonight&hide_border=true" />
+      </a>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://github.com/Spamziesagcan/IPL-2008-22-ANALYSIS">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Spamziesagcan&repo=IPL-2008-22-ANALYSIS&theme=tokyonight&hide_border=true" />
+      </a>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://github.com/Spamziesagcan/LA-CRIMES-2020-25">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Spamziesagcan&repo=LA-CRIMES-2020-25&theme=tokyonight&hide_border=true" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
