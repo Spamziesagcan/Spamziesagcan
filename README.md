@@ -131,6 +131,20 @@ me.say_hi()
 
 </div>
 
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Spamziesagcan&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
+
+---
+
+### 😂 Productivity Meme
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/demo/memes?user=Spamziesagcan" alt="Commit Meme" width="500"/>
+</div>
+
+*Meme updates based on recent commit activity!*
+
 ---
 
 ###  Featured Projects
