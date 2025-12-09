@@ -124,21 +124,12 @@ me.say_hi()
 ###  GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Spamziesagcan&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%" />
-  <img src="https://streak-stats.demolab.com/?user=Spamziesagcan&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
+
+![](https://komarev.com/ghpvc/?username=Spamziesagcan&style=for-the-badge&color=blue)
+![](https://img.shields.io/github/followers/Spamziesagcan?style=for-the-badge&color=blue)
+![](https://img.shields.io/github/stars/Spamziesagcan?style=for-the-badge&color=blue)
+
 </div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Spamziesagcan&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
-</div>
-
----
-
-###  GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Spamziesagcan&theme=tokyonight&no-frame=true&row=1" alt="GitHub Trophies" />
-</p>
 
 ---
 
@@ -154,17 +145,6 @@ me.say_hi()
 |:---:|:---:|:---:|
 | Data science project on USA accidents | Cricket data analysis | Crime data analysis |
 
-</div>
-
----
-
-###  Coding Activity
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Spamziesagcan&theme=tokyonight" alt="Profile Summary" />
 </div>
 
 ---
@@ -192,20 +172,6 @@ me.say_hi()
  Contributing to open-source projects
  Brainstorming new project ideas
 ```
-
----
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&v=2" alt="Random Dev Quote" />
-</p>
-
----
-
-###  Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Spamziesagcan&theme=tokyo-night&hide_border=true" alt="Contribution Graph" width="95%" />
-</p>
 
 ---
 
