@@ -124,12 +124,12 @@ me.say_hi()
 ###  GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Spamziesagcan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Spamziesagcan&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=spamziesagcan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=spamziesagcan&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Spamziesagcan&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=spamziesagcan&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
 </div>
 
 ---
@@ -137,7 +137,7 @@ me.say_hi()
 ###  GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Spamziesagcan&theme=tokyonight&no-frame=true&margin-w=15&row=1" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=spamziesagcan&theme=tokyonight&no-frame=true&margin-w=15&row=1" alt="GitHub Trophies" />
 </p>
 
 ---
@@ -164,7 +164,7 @@ me.say_hi()
 <!--END_SECTION:waka-->
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Spamziesagcan&theme=radical" alt="Profile Summary" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=spamziesagcan&theme=tokyonight" alt="Profile Summary" />
 </div>
 
 ---
@@ -204,7 +204,7 @@ me.say_hi()
 ###  Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Spamziesagcan&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" width="95%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=spamziesagcan&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" width="95%" />
 </p>
 
 ---
