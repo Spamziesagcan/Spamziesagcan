@@ -4,41 +4,41 @@ import random
 from datetime import datetime, timedelta
 from github import Github
 
-# Meme collections for different scenarios (varied to avoid repetition)
+# Meme collections for different scenarios using imgflip API IDs
 MEME_COLLECTIONS = {
     'very_active': [  # 15+ commits in last 7 days
-        'https://i.imgflip.com/4/2fm6x.jpg',  # Expanding brain - productivity
-        'https://i.imgflip.com/4/1ur9b0.jpg',  # Stonks - coding streak
+        'https://i.imgflip.com/2fm6x.jpg',  # Expanding brain
+        'https://i.imgflip.com/1ur9b0.jpg',  # Stonks
         'https://i.imgflip.com/30b1gx.jpg',  # I am speed
-        'https://i.imgflip.com/4t0m5.jpg',  # Leonardo DiCaprio - committing like...
+        'https://i.imgflip.com/4t0m5.jpg',  # Leonardo DiCaprio
     ],
     'active': [  # 7-14 commits in last 7 days
-        'https://i.imgflip.com/4/5aflat.jpg',  # Panik Kalm - balanced work
-        'https://i.imgflip.com/8p0s.jpg',  # Good guy - steady contributor
-        'https://i.imgflip.com/1bij.jpg',  # Success kid - consistent coding
-        'https://i.imgflip.com/26am.jpg',  # Satisfied seal - good progress
+        'https://i.imgflip.com/5aflat.jpg',  # Panik Kalm
+        'https://i.imgflip.com/8p0s.jpg',  # Good guy
+        'https://i.imgflip.com/1bij.jpg',  # Success kid
+        'https://i.imgflip.com/26am.jpg',  # Satisfied seal
     ],
     'moderate': [  # 3-6 commits in last 7 days
-        'https://i.imgflip.com/4/261o3j.jpg',  # This is fine - moderate work
-        'https://i.imgflip.com/grr.jpg',  # Morpheus - taking it easy
-        'https://i.imgflip.com/1g8my4.jpg',  # Distracted boyfriend - side projects
-        'https://i.imgflip.com/4/3lmzyx.jpg',  # Bernie Sanders - waiting for inspiration
+        'https://i.imgflip.com/261o3j.jpg',  # This is fine
+        'https://i.imgflip.com/grr.jpg',  # Morpheus
+        'https://i.imgflip.com/1g8my4.jpg',  # Distracted boyfriend
+        'https://i.imgflip.com/3lmzyx.jpg',  # Bernie Sanders
     ],
     'low': [  # 1-2 commits in last 7 days
-        'https://i.imgflip.com/4/3oevdk.jpg',  # Disappointed cricket fan - low activity
-        'https://i.imgflip.com/4/2cp1.jpg',  # Hide the pain Harold - busy with other stuff
-        'https://i.imgflip.com/9vct.jpg',  # Philosoraptor - thinking mode
-        'https://i.imgflip.com/1ihzfe.jpg',  # Roll safe - planning phase
+        'https://i.imgflip.com/3oevdk.jpg',  # Disappointed
+        'https://i.imgflip.com/2cp1.jpg',  # Hide the pain
+        'https://i.imgflip.com/9vct.jpg',  # Philosoraptor
+        'https://i.imgflip.com/1ihzfe.jpg',  # Roll safe
     ],
     'inactive': [  # 0 commits in last 7 days
-        'https://i.imgflip.com/4/1g8my4.jpg',  # Distracted boyfriend - procrastination
-        'https://i.imgflip.com/26am.jpg',  # Disaster girl - vacation mode
-        'https://i.imgflip.com/5gimtn.jpg',  # Bernie Sanders sitting - chilling
-        'https://i.imgflip.com/4/3umi0.jpg',  # Monkey puppet - caught slacking
+        'https://i.imgflip.com/1g8my4.jpg',  # Distracted boyfriend
+        'https://i.imgflip.com/2cp1.jpg',  # Hide pain Harold
+        'https://i.imgflip.com/5gimtn.jpg',  # Bernie sitting
+        'https://i.imgflip.com/3umi0.jpg',  # Monkey puppet
     ],
     'weekend_warrior': [  # Most commits on weekends
-        'https://i.imgflip.com/4t0m5.jpg',  # Partying then coding
-        'https://i.imgflip.com/4/1g8my4.jpg',  # Weekend project enthusiast
+        'https://i.imgflip.com/4t0m5.jpg',  # Party hard
+        'https://i.imgflip.com/1bij.jpg',  # Success kid
     ]
 }
 
