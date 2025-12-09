@@ -41,7 +41,7 @@ me.say_hi()
 -  2025 Goals: Contribute more to Open Source and build impactful projects
 -  Fun fact: **I'm a lyricist** - I express code in logic and emotions in lyrics
 -  Reach me: **harshchandramania@gmail.com**
--  Quote: *"Code is poetry written in logic"*
+-  *"Code is poetry written in logic"*
 
 ---
 
