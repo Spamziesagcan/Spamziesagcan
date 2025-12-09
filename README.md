@@ -21,11 +21,12 @@
 class Harsh:
     def __init__(self):
         self.username = "Spamziesagcan"
-        self.name = "Harsh Chandra"
+        self.name = "Harsh Chandramania"
         self.location = "India "
-        self.current_project = "EdgeScribe"
+        self.completed_projects = ["EdgeScribe"]
         self.education = "Computer Science Student"
-        self.interests = ["AI/ML", "Web Development", "Data Science", "Lyrics Writing"]
+        self.currently_learning = ["Big Data", "Data Engineering", "DSA"]
+        self.interests = ["AI/ML", "Data Engineering", "Backend Development", "Lyrics Writing"]
         self.fun_fact = "I turn coffee into code and emotions into lyrics "
     
     def say_hi(self):
@@ -35,10 +36,10 @@ me = Harsh()
 me.say_hi()
 ```
 
--  Currently working on **[EdgeScribe](https://github.com/Spamziesagcan/EdgeScribe)** - An innovative project pushing boundaries
--  Learning **Advanced Machine Learning, Cloud Architecture, and System Design**
--  Ask me about **Python, Java, Data Science, AI/ML, or Songwriting**
--  2025 Goals: Contribute more to Open Source and build impactful projects
+-  Completed **[EdgeScribe](https://github.com/Spamziesagcan/EdgeScribe)** - Successfully delivered an innovative project
+-  Currently learning **Cloud Architecture, System Design, Big Data, Data Engineering, and Data Structures & Algorithms**
+-  Ask me about **Python, Java, Data Science, Backend Development, or Songwriting**
+-  2025 Goals: Master Data Engineering and contribute more to Open Source
 -  Fun fact: **I'm a lyricist** - I express code in logic and emotions in lyrics
 -  Reach me: **harshchandramania@gmail.com**
 -  *"Code is poetry written in logic"*
@@ -50,6 +51,9 @@ me.say_hi()
 <p align="center">
   <a href="mailto:harshchandramania@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.youtube.com/@FluxItt" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
   </a>
   <a href="https://www.leetcode.com/harshhchandr" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
@@ -71,6 +75,8 @@ me.say_hi()
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
 </p>
@@ -81,6 +87,8 @@ me.say_hi()
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
   <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Seaborn" />
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
 </p>
@@ -90,6 +98,15 @@ me.say_hi()
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
+</p>
+
+#### Backend & Infrastructure
+<p align="left">
+  <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" alt="Kafka" />
+  <img src="https://img.shields.io/badge/Debezium-FF6600?style=for-the-badge&logo=debezium&logoColor=white" alt="Debezium" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare" />
 </p>
 
 #### Tools & Platforms
@@ -106,13 +123,12 @@ me.say_hi()
 ###  GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Spamziesagcan&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Spamziesagcan&theme=radical&hide_border=true" alt="GitHub Streak" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Spamziesagcan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Spamziesagcan&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Spamziesagcan&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" height="170" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Spamziesagcan&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" width="600" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Spamziesagcan&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
 </div>
 
 ---
@@ -120,7 +136,7 @@ me.say_hi()
 ###  GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Spamziesagcan&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1&column=7" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Spamziesagcan&theme=tokyonight&no-frame=true&margin-w=15&row=1" alt="GitHub Trophies" />
 </p>
 
 ---
@@ -129,7 +145,12 @@ me.say_hi()
 
 <div align="center">
 
-[![EdgeScribe](https://github-readme-stats.vercel.app/api/pin/?username=Spamziesagcan&repo=EdgeScribe&theme=radical&hide_border=true)](https://github.com/Spamziesagcan/EdgeScribe)
+[![EdgeScribe](https://github-readme-stats.vercel.app/api/pin/?username=Spamziesagcan&repo=EdgeScribe&theme=tokyonight&hide_border=true)](https://github.com/Spamziesagcan/EdgeScribe)
+[![Updatis](https://github-readme-stats.vercel.app/api/pin/?username=Spamziesagcan&repo=updatis&theme=tokyonight&hide_border=true)](https://github.com/Spamziesagcan/updatis)
+[![TripSync-Deploy](https://github-readme-stats.vercel.app/api/pin/?username=Spamziesagcan&repo=tripsync-deploy&theme=tokyonight&hide_border=true)](https://github.com/Spamziesagcan/tripsync-deploy)
+[![TDSP-NSDC](https://github-readme-stats.vercel.app/api/pin/?username=Spamziesagcan&repo=TDSP-NSDC&theme=tokyonight&hide_border=true)](https://github.com/Spamziesagcan/TDSP-NSDC)
+[![IPL 2008-22 Analysis](https://github-readme-stats.vercel.app/api/pin/?username=Spamziesagcan&repo=IPL-2008-22-ANALYSIS&theme=tokyonight&hide_border=true)](https://github.com/Spamziesagcan/IPL-2008-22-ANALYSIS)
+[![LA Crimes 2020-25](https://github-readme-stats.vercel.app/api/pin/?username=Spamziesagcan&repo=LA-CRIMES-2020-25&theme=tokyonight&hide_border=true)](https://github.com/Spamziesagcan/LA-CRIMES-2020-25)
 
 </div>
 
@@ -173,18 +194,16 @@ me.say_hi()
 ---
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
 </p>
 
 ---
 
-###  Contribution Snake
+###  Contribution Graph
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Spamziesagcan/Spamziesagcan/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Spamziesagcan/Spamziesagcan/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Spamziesagcan/Spamziesagcan/output/github-contribution-grid-snake.svg">
-</picture>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Spamziesagcan&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" width="95%" />
+</p>
 
 ---
 
