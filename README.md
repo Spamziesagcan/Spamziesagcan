@@ -1,5 +1,5 @@
 ﻿<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Harsh+Chandra;Full+Stack+Developer;AI+%26+ML+Enthusiast;Lyricist+%26+Creative+Thinker;Open+Source+Contributor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Harsh+Chandramania;Backend+Developer;Data+Analyst;AI+%26+ML+Enthusiast;Lyricist+%26+Creative+Thinker;Open+Source+Contributor" alt="Typing SVG" />
 </div>
 
 <h3 align="center"> Passionate Techie from India | Building the Future, One Line at a Time</h3>
@@ -106,13 +106,13 @@ me.say_hi()
 ###  GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=spamziesagcan&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=spamziesagcan&theme=radical&hide_border=true" alt="GitHub Streak" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Spamziesagcan&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Spamziesagcan&theme=radical&hide_border=true" alt="GitHub Streak" height="170" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=spamziesagcan&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" height="170" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=spamziesagcan&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" width="600" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Spamziesagcan&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" height="170" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Spamziesagcan&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" width="600" />
 </div>
 
 ---
@@ -120,7 +120,7 @@ me.say_hi()
 ###  GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=spamziesagcan&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1&column=7" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Spamziesagcan&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1&column=7" alt="GitHub Trophies" />
 </p>
 
 ---
@@ -129,7 +129,7 @@ me.say_hi()
 
 <div align="center">
 
-[![EdgeScribe](https://github-readme-stats.vercel.app/api/pin/?username=spamziesagcan&repo=EdgeScribe&theme=radical&hide_border=true)](https://github.com/Spamziesagcan/EdgeScribe)
+[![EdgeScribe](https://github-readme-stats.vercel.app/api/pin/?username=Spamziesagcan&repo=EdgeScribe&theme=radical&hide_border=true)](https://github.com/Spamziesagcan/EdgeScribe)
 
 </div>
 
@@ -141,7 +141,7 @@ me.say_hi()
 <!--END_SECTION:waka-->
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=spamziesagcan&theme=radical" alt="Profile Summary" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Spamziesagcan&theme=radical" alt="Profile Summary" />
 </div>
 
 ---
@@ -183,9 +183,9 @@ me.say_hi()
 ###  Contribution Snake
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/spamziesagcan/spamziesagcan/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/spamziesagcan/spamziesagcan/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/spamziesagcan/spamziesagcan/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Spamziesagcan/Spamziesagcan/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Spamziesagcan/Spamziesagcan/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Spamziesagcan/Spamziesagcan/output/github-contribution-grid-snake.svg">
 </picture>
 
 ---
