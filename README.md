@@ -144,42 +144,17 @@ me.say_hi()
 
 ###  Featured Projects
 
-<table align="center">
-  <tr>
-    <td align="center" width="33%">
-      <a href="https://github.com/Spamziesagcan/EdgeScribe">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Spamziesagcan&repo=EdgeScribe&theme=tokyonight&hide_border=true" />
-      </a>
-    </td>
-    <td align="center" width="33%">
-      <a href="https://github.com/Spamziesagcan/updatis">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Spamziesagcan&repo=updatis&theme=tokyonight&hide_border=true" />
-      </a>
-    </td>
-    <td align="center" width="33%">
-      <a href="https://github.com/Spamziesagcan/tripsync-deploy">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Spamziesagcan&repo=tripsync-deploy&theme=tokyonight&hide_border=true" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="33%">
-      <a href="https://github.com/Spamziesagcan/TDSP-NSDC">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Spamziesagcan&repo=TDSP-NSDC&theme=tokyonight&hide_border=true" />
-      </a>
-    </td>
-    <td align="center" width="33%">
-      <a href="https://github.com/Spamziesagcan/IPL-2008-22-ANALYSIS">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Spamziesagcan&repo=IPL-2008-22-ANALYSIS&theme=tokyonight&hide_border=true" />
-      </a>
-    </td>
-    <td align="center" width="33%">
-      <a href="https://github.com/Spamziesagcan/LA-CRIMES-2020-25">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Spamziesagcan&repo=LA-CRIMES-2020-25&theme=tokyonight&hide_border=true" />
-      </a>
-    </td>
-  </tr>
-</table>
+<div align="center">
+
+| [**🔗 EdgeScribe**](https://github.com/Spamziesagcan/EdgeScribe) | [**🔗 Updatis**](https://github.com/Spamziesagcan/updatis) | [**🔗 TripSync-Deploy**](https://github.com/Spamziesagcan/tripsync-deploy) |
+|:---:|:---:|:---:|
+| Text editing platform | Update management system | Travel sync application |
+
+| [**🔗 TDSP-NSDC**](https://github.com/Spamziesagcan/TDSP-NSDC) | [**🔗 IPL 2008-22 Analysis**](https://github.com/Spamziesagcan/IPL-2008-22-ANALYSIS) | [**🔗 LA Crimes 2020-25**](https://github.com/Spamziesagcan/LA-CRIMES-2020-25) |
+|:---:|:---:|:---:|
+| Data science project | Cricket data analysis | Crime data analysis |
+
+</div>
 
 ---
 
