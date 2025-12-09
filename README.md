@@ -148,11 +148,11 @@ me.say_hi()
 
 | [**🔗 EdgeScribe**](https://github.com/Spamziesagcan/EdgeScribe) | [**🔗 Updatis**](https://github.com/Spamziesagcan/updatis) | [**🔗 TripSync-Deploy**](https://github.com/Spamziesagcan/tripsync-deploy) |
 |:---:|:---:|:---:|
-| Text editing platform | Update management system | Travel sync application |
+| Summarizer + Translator | Lightning quick DB update tool | Student ride + task sharing app |
 
 | [**🔗 TDSP-NSDC**](https://github.com/Spamziesagcan/TDSP-NSDC) | [**🔗 IPL 2008-22 Analysis**](https://github.com/Spamziesagcan/IPL-2008-22-ANALYSIS) | [**🔗 LA Crimes 2020-25**](https://github.com/Spamziesagcan/LA-CRIMES-2020-25) |
 |:---:|:---:|:---:|
-| Data science project | Cricket data analysis | Crime data analysis |
+| Data science project on USA accidents | Cricket data analysis | Crime data analysis |
 
 </div>
 
