@@ -74,10 +74,11 @@ me.say_hi()
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
 </p>
 
@@ -144,14 +145,24 @@ me.say_hi()
 ###  Featured Projects
 
 <div align="center">
-
-[![EdgeScribe](https://github-readme-stats.vercel.app/api/pin/?username=Spamziesagcan&repo=EdgeScribe&theme=tokyonight&hide_border=true)](https://github.com/Spamziesagcan/EdgeScribe)
-[![Updatis](https://github-readme-stats.vercel.app/api/pin/?username=Spamziesagcan&repo=updatis&theme=tokyonight&hide_border=true)](https://github.com/Spamziesagcan/updatis)
-[![TripSync-Deploy](https://github-readme-stats.vercel.app/api/pin/?username=Spamziesagcan&repo=tripsync-deploy&theme=tokyonight&hide_border=true)](https://github.com/Spamziesagcan/tripsync-deploy)
-[![TDSP-NSDC](https://github-readme-stats.vercel.app/api/pin/?username=Spamziesagcan&repo=TDSP-NSDC&theme=tokyonight&hide_border=true)](https://github.com/Spamziesagcan/TDSP-NSDC)
-[![IPL 2008-22 Analysis](https://github-readme-stats.vercel.app/api/pin/?username=Spamziesagcan&repo=IPL-2008-22-ANALYSIS&theme=tokyonight&hide_border=true)](https://github.com/Spamziesagcan/IPL-2008-22-ANALYSIS)
-[![LA Crimes 2020-25](https://github-readme-stats.vercel.app/api/pin/?username=Spamziesagcan&repo=LA-CRIMES-2020-25&theme=tokyonight&hide_border=true)](https://github.com/Spamziesagcan/LA-CRIMES-2020-25)
-
+  <a href="https://github.com/Spamziesagcan/EdgeScribe">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Spamziesagcan&repo=EdgeScribe&theme=tokyonight&hide_border=true" alt="EdgeScribe" />
+  </a>
+  <a href="https://github.com/Spamziesagcan/updatis">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Spamziesagcan&repo=updatis&theme=tokyonight&hide_border=true" alt="Updatis" />
+  </a>
+  <a href="https://github.com/Spamziesagcan/tripsync-deploy">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Spamziesagcan&repo=tripsync-deploy&theme=tokyonight&hide_border=true" alt="TripSync-Deploy" />
+  </a>
+  <a href="https://github.com/Spamziesagcan/TDSP-NSDC">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Spamziesagcan&repo=TDSP-NSDC&theme=tokyonight&hide_border=true" alt="TDSP-NSDC" />
+  </a>
+  <a href="https://github.com/Spamziesagcan/IPL-2008-22-ANALYSIS">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Spamziesagcan&repo=IPL-2008-22-ANALYSIS&theme=tokyonight&hide_border=true" alt="IPL 2008-22 Analysis" />
+  </a>
+  <a href="https://github.com/Spamziesagcan/LA-CRIMES-2020-25">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Spamziesagcan&repo=LA-CRIMES-2020-25&theme=tokyonight&hide_border=true" alt="LA Crimes 2020-25" />
+  </a>
 </div>
 
 ---
