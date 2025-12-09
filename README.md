@@ -41,7 +41,7 @@ me.say_hi()
 -  2025 Goals: Contribute more to Open Source and build impactful projects
 -  Fun fact: **I'm a lyricist** - I express code in logic and emotions in lyrics
 -  Reach me: **harshchandramania@gmail.com**
--  Quote: *"Code is poetry written in logic"*
+-  *"Code is poetry written in logic"*
 
 ---
 
@@ -172,8 +172,6 @@ me.say_hi()
 
 ---
 
-###  Random Dev Quote
-
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
 </p>
@@ -196,7 +194,7 @@ me.say_hi()
 
 *"First, solve the problem. Then, write the code."* – John Johnson
 
-### Show some  by starring some of my repositories!
+### Show some love by starring some of my repositories!
 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
 
