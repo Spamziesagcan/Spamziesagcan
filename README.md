@@ -22,12 +22,13 @@ class Harsh:
     def __init__(self):
         self.username = "Spamziesagcan"
         self.name = "Harsh Chandramania"
-        self.location = "India "
-        self.completed_projects = ["EdgeScribe"]
-        self.education = "Computer Science Student"
-        self.currently_learning = ["Big Data", "Data Engineering", "DSA"]
+        self.location = "India 🇮🇳"
+        self.currently_learning = ["Cloud Architecture", "System Design", "Big Data", "Data Engineering", "DSA"]
         self.interests = ["AI/ML", "Data Engineering", "Backend Development", "Lyrics Writing"]
-        self.fun_fact = "I turn coffee into code and emotions into lyrics "
+        self.ask_me_about = ["Python", "Java", "Data Science", "Backend Development", "Songwriting"]
+        self.goals_2025 = "Master Data Engineering and contribute more to Open Source"
+        self.fun_fact = "I'm a lyricist - I express code in logic and emotions in lyrics"
+        self.motto = "Code is poetry written in logic"
     
     def say_hi(self):
         print("Thanks for visiting! Let's connect and build something amazing together!")
@@ -132,7 +133,7 @@ me.say_hi()
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Spamziesagcan&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://nirzak-streak-stats.vercel.app?user=Spamziesagcan&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
